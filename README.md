@@ -1,2 +1,4 @@
 # hello-world
-A PM who does not want to be a coder is not a good designer.
+Hello nerds!
+This is the first time I wrote something on Github. Everything is fascinated,isn't it?
+
